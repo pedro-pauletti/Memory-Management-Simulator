@@ -24,3 +24,40 @@
 <a align="center" href="https://drive.google.com/file/d/1-tajZ-DC8tARL263KQyl_0NX8PJOiYsQ/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/119594233-c496a480-bdb1-11eb-938e-ab395e855c1f.png" width = "400px"></a>
 
 
+Get to know the project:
+=================
+<!--ts-->
+   * [About](#About)
+   * [Interface](#Interface)
+   * [How to use?](#How-to-Use)
+   * [Tools Used](#Tools-Used)
+   * [References](#References)
+   * [Author](#Author)
+<!--te-->
+
+## About 💬
+
+
+## Interface 💻
+
+
+
+## How to use?💡
+
+
+## 🛠 Tools Used
+
+- 🔗[Python](https://www.python.org/)
+- 🔗[PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
+
+## References ✔
+
+- 🔗[Page replacement algorithm](https://en.wikipedia.org/wiki/Page_replacement_algorithm)
+
+
+## Author👨🏼‍💻
+
+<p align="center">
+    <a align="center" href="https://pedro-pauletti.github.io/pedropauletti.github.io/"><img src="https://user-images.githubusercontent.com/57163905/116717987-e0c04500-a9af-11eb-835f-81939e7c8bf1.jpeg" width = "150px"></a>
+    <h3 align="center">Pedro Pauletti</h3>
+</p>
