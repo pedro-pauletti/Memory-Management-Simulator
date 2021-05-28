@@ -154,7 +154,6 @@ Simulation:<br>
 ## References ✔
 
 - 🔗[Page replacement algorithm](https://en.wikipedia.org/wiki/Page_replacement_algorithm)
-- 🔗[Memória Virtual: Paginação por demanda e Algoritmos de Substituição de páginas](http://escalonamentoprocessos.blogspot.com/2010/12/memoria-virtual-paginacao-por-demanda-e.html#:~:text=O%20algoritmo%20NRU%20(Not%20Recently,durante%20sua%20perman%C3%AAncia%20em%20mem%C3%B3ria)
 
 ## Author👨🏼‍💻
 
