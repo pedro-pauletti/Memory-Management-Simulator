@@ -42,8 +42,13 @@ In a computer operating system that uses paging for virtual memory management, p
 The idea of creating a simulator is so that students and interested parties can understand and analyze the functioning of the page replacement algorithms and the functioning of the memory management process in a simple, visual and didactic way. All algorithms were developed in Python. The interface was designed using the PySimpleGUI graphic library. To improve the visualization of the simulation the unit of execution time of each process is in seconds. 
 
 ## Interface 💻
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119986331-14d05b00-bf9a-11eb-89a1-1a6fb45d67eb.gif" width = "900px"/>
+</h1>
+</p>
 
-### Botões:
+### Buttons:
 - ***?*** –> Information about the respective algorithms and the swapping states.
 - ***Refresh*** –> Update application with user-defined pages.
 - ***ADD*** –> Add the logical address in memory.
@@ -77,6 +82,11 @@ Sequence of logical addresses added to memory:<br>
 00000 -> VPN = 0 / Offset = 0<br>
 <br>
 Simulation:<br>
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119984587-f10c1580-bf97-11eb-82ae-86f71bff614a.gif" width = "900px"/>
+</h1>
+</p>
 
 ## NRU (Not Recently Used)     
 The not recently used (NRU) page replacement algorithm is an algorithm that favours keeping pages in memory that have been recently used. 
@@ -100,6 +110,12 @@ Sequence of logical addresses added to memory:<br>
 00000 -> VPN = 0 / Offset = 0<br>
 <br>
 Simulation:<br>
+Simulation:<br>
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119985834-8bb92400-bf99-11eb-887a-e67c1af5b0bd.gif" width = "900px"/>
+</h1>
+</p>
 
 ## Second-chance    
 A modified form of the FIFO page replacement algorithm, known as the Second-chance page replacement algorithm, fares relatively better than FIFO at little cost for the improvement.
@@ -115,6 +131,12 @@ Sequence of logical addresses added to memory:<br>
 01110 -> VPN = 1 / Offset = 6<br>
 <br>
 Simulation:<br>
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119985716-65938400-bf99-11eb-87cd-daaa3f1315a7.gif" width = "900px"/>
+</h1>
+</p>
+
 
 ## Clock    
 Clock is a more efficient version of FIFO than Second-chance because pages don''t have to be constantly pushed to the back of the list, but it performs the same general function as Second-Chance.
@@ -130,6 +152,12 @@ Sequence of logical addresses added to memory:<br>
 01110 -> VPN = 1 / Offset = 6<br>
 <br>
 Simulation:<br>
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119985770-79d78100-bf99-11eb-9491-34cf085e407d.gif" width = "900px"/>
+</h1>
+</p>
+
 
 ## LFU     
 The least recently used (LRU) page replacement algorithm, though similar in name to NRU, differs in the fact that LRU keeps track of page usage over a short period of time, while NRU just looks at the usage in the last clock interval.
@@ -145,7 +173,12 @@ Sequence of logical addresses added to memory:<br>
 01110 -> VPN = 1 / Offset = 6<br>
 <br>
 Simulation:<br>
-                
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/119985920-a55a6b80-bf99-11eb-9559-4dc5095d5a41.gif" width = "900px"/>
+</h1>
+</p>
+
 ## 🛠 Tools Used
 
 - 🔗[Python](https://www.python.org/)
