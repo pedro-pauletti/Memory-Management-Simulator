@@ -21,7 +21,7 @@
 </h1>
 </p>
 
-<a align="center" href="https://drive.google.com/file/d/1-tajZ-DC8tARL263KQyl_0NX8PJOiYsQ/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/119594233-c496a480-bdb1-11eb-938e-ab395e855c1f.png" width = "400px"></a>
+<a align="center" href="https://drive.google.com/file/d/1js3r10AU76a8tUtQP33NyzXg8NnIObOg/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/119594233-c496a480-bdb1-11eb-938e-ab395e855c1f.png" width = "400px"></a>
 
 
 Get to know the project:
@@ -131,7 +131,7 @@ Sequence of logical addresses added to memory:<br>
 <br>
 Simulation:<br>
 
-### LFU     
+## LFU     
 The least recently used (LRU) page replacement algorithm, though similar in name to NRU, differs in the fact that LRU keeps track of page usage over a short period of time, while NRU just looks at the usage in the last clock interval.
 LRU works on the idea that pages that have been most heavily used in the past few instructions are most likely to be used heavily in the next few instructions too.   
     
@@ -155,8 +155,6 @@ Simulation:<br>
 
 - 🔗[Page replacement algorithm](https://en.wikipedia.org/wiki/Page_replacement_algorithm)
 - 🔗[Memória Virtual: Paginação por demanda e Algoritmos de Substituição de páginas](http://escalonamentoprocessos.blogspot.com/2010/12/memoria-virtual-paginacao-por-demanda-e.html#:~:text=O%20algoritmo%20NRU%20(Not%20Recently,durante%20sua%20perman%C3%AAncia%20em%20mem%C3%B3ria)
-
-
 
 ## Author👨🏼‍💻
 
