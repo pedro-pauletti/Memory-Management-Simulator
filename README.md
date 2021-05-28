@@ -17,7 +17,7 @@
 
 <p>
 <h1 align="center">
-    <img title="Tela Inicial" src="https://user-images.githubusercontent.com/57163905/119928844-c64b9e00-bf52-11eb-823f-036d3d8afbc2.png" width = "500px"/>
+    <img title="Tela Inicial" src="https://user-images.githubusercontent.com/57163905/119929701-635b0680-bf54-11eb-8731-59e9f9bce457.png" width = "900px"/>
 </h1>
 </p>
 
